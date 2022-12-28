@@ -1,5 +1,4 @@
-# SAGESA
-Africa AMR Network Resources
+# Africa AMR Research and Training Network Resources
 
 ## AMR Bioinformatics Workshop
 This 3 day workshop was held virtually on 25 - 27 May 2022. You can access the materials here
