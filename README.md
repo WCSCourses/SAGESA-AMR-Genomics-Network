@@ -11,4 +11,6 @@ SAGESA Training activities consisted of 2-hour webinar sessions and a 3 day bioi
 
 [SAGESA Network Curriculum](https://github.com/WCSCourses/SAGESA/blob/main/SAGESA%20Network%20Curriculum%20and%20Activities.pdf)   
 
+[AMR Research and Training Network Webinar Resources](webinars.md)
+
 [AMR Bioinformatics Workshop](https://github.com/WCSCourses/AMR-Bio-Africa-2022)
