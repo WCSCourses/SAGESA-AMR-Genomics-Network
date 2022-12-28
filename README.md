@@ -1,4 +1,4 @@
-# Welcome to the AMR Genomics Network - Africa
+## SAGESA - An African AMR Genomics Network Resource
 ![SAGESA logo](logos/SAGESA.png)
 
 Explore tools and resources for pathogen genomics and AMR
