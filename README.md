@@ -1,6 +1,9 @@
-# Africa AMR Research and Training Network Resources
+# Africa AMR Research and Training Network
+![SAGESA logo](logos/SAGESA.png)
 
-## AMR Bioinformatics Workshop
+Explore tools and resources for pathogen genomics and AMR
+
+## SAGESA AMR genomics Curriculum
 This 3 day workshop was held virtually on 25 - 27 May 2022. You can access the materials here
 
 ## SAGESA Webinars and workshops
