@@ -13,4 +13,4 @@ SAGESA Training activities consisted of 2-hour webinar sessions and a 3 day bioi
 
 [AMR Genomics Webinar Resources](webinars.md)
 
-[AMR Bioinformatics Workshop](https://github.com/WCSCourses/AMR-Bio-Africa-2022)
+[AMR Bioinformatics Workshop](https://wcscourses.github.io/AMR-Bio-Africa-2022/)
