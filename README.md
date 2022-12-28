@@ -10,8 +10,10 @@ The [SAGESA project](https://sagesa.africa) established a research and training 
 [A Research and Training Network - Nurturing valuable sub-regional collaborations](https://coursesandconferences.wellcomeconnectingscience.org/news_item/sagesa-a-training-and-research-network-to-develop-capacity-for-genomic-surveillance-of-amr)
 
 
-## SAGESA AMR Genomics Training Activities
-SAGESA Training activities consisted of 2-hour webinar sessions and a 3 day bioinformatics workshop. To find out more about the curriculum and activities activities click on the links below  
+## Network and Training Activities
+SAGESA activities consisted of a launch workshop to establish the network; monthly 2-hour webinar sessions and a 3 day bioinformatics workshop. To find out more about the network to date, curriculum and training activities activities click on the links below  
+
+[Establishment of the SAGESA Network]
 
 [AMR Genomics Training Curriculum](https://github.com/WCSCourses/SAGESA/blob/main/SAGESA%20Network%20Curriculum%20and%20Activities.pdf)   
 
