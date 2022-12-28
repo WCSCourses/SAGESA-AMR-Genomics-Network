@@ -3,14 +3,12 @@
 
 Explore tools and resources for pathogen genomics and AMR
 
+## About SAGESA
+
+
 ## SAGESA AMR genomics Curriculum
-This 3 day workshop was held virtually on 25 - 27 May 2022. You can access the materials here
+SAGESA Training activities consisted of 2-hour webinar sessions and a 3 day bioinformatics workshop. To find out more about the curriculum and activities activities click on the links below  
 
-## SAGESA Webinars and workshops
-A series of 2-hour workshops coverred the following topics:     
-Data analysis pipelines        
-AMR genomics tools     
-Samples to Sequencing      
-Skills lab: Grant writing Part 1 & 2  
+[SAGESA Network Curriculum](https://github.com/WCSCourses/SAGESA/blob/main/SAGESA%20Network%20Curriculum%20and%20Activities.pdf)   
 
-You can access the materials here
+[AMR Bioinformatics Workshop](https://github.com/WCSCourses/AMR-Bio-Africa-2022)
