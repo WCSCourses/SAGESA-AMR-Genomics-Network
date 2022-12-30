@@ -13,7 +13,7 @@ The [SAGESA project](https://sagesa.africa) established a research and training 
 ## Network and Training Activities
 SAGESA activities consisted of a launch workshop to establish the network; monthly 2-hour webinar sessions and a 3 day bioinformatics workshop. To find out more about the network to date, curriculum and training activities activities click on the links below  
 
-[SAGESA Research and Training Network Activities](https://github.com/WCSCourses/SAGESA/blob/main/SAGESA%20Network%20Curriculum%20and%20Activities.pdf)   
+[SAGESA Research and Training Network Activities](https://github.com/WCSCourses/SAGESA-AMR-Genomics-Network/blob/main/SAGESA%20Network%20and%20Training%20Activities.pdf)   
 
 [AMR Genomics Webinar Resources](webinars.md)
 
