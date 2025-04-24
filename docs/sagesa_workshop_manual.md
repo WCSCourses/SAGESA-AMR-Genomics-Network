@@ -65,7 +65,7 @@ table visualisation program such as Excel or Google spreadsheets.</td>
 <td><p>Attempt to download a genome in .fasta format from
 Pathogenwatch.</p>
 <p>In the search bar at the top, type “G18255058”</p></td>
-<td><img src="images/pw%20search%20bar.png" style="width:20.0%" /></td>
+<td><img src="images/pw%20search%20bar.png" width="20%" /></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -171,7 +171,7 @@ different answer, depending on the model you’ve used!</p>
 results identical? Where do they differ?</p>
 <p>Look at the genes “ermC” and “erm(C)”.</p>
 <p>Was ChatGPT able to realise these were one and the same?</p></td>
-<td><img src="images/chatgpt%20output%20example1.png" /></td>
+<td><img src="images/chatgpt%20output%20example1.png" width="20%" /></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -207,7 +207,7 @@ Which genes were identified by both methods?”</td>
 results identical? Where do they differ?</p>
 <p>Look at the genes “ermC” and “erm(C)”.</p>
 <p>Was Claude.ai able to realise these were one and the same?</p></td>
-<td><img src="images/clause%20results.png" /></td>
+<td><img src="images/clause%20results.png" width="20%"/></td>
 <td></td>
 </tr>
 <tr class="odd">
