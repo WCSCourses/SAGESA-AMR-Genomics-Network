@@ -1,0 +1,6 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aadD	99.87	771/771	100.0	1..771	NODE_24_length_4752_cov_23.180099	3752..4522	Amikacin, Tobramycin	AF181950
+aac(6')-aph(2'')	100.00	1440/1440	100.0	1..1440	NODE_31_length_1918_cov_19.795240	80..1519	Gentamicin, Tobramycin, Netilmicin, Kanamycin, Amikacin, Dibekacin, Isepamicin, Fortimicin, Streptomycin	M13771
+blaZ	99.89	888/888	100.0	1..888	NODE_13_length_103137_cov_23.042907	71421..72308	Amoxicillin, Ampicillin, Penicillin, Piperacillin	CP003979
+mecA	100.00	2007/2007	100.0	1..2007	NODE_20_length_41822_cov_24.734319	1617..3623	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	BX571856
+bleO	100.00	399/399	100.0	1..399	NODE_24_length_4752_cov_23.180099	3131..3529	Bleomycin	AF051917
