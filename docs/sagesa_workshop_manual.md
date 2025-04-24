@@ -71,7 +71,7 @@ Pathogenwatch.</p>
 <tr class="odd">
 <td>Download the assembled genomes in fasta format by pressing the .fa
 icon.</td>
-<td><img src="images/pw%20download%20genome.png" width="20%" /></td>
+<td><img src="images/pw%20download%20genome.png" width="100%" /></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -90,12 +90,12 @@ class="uri">http://genepi.food.dtu.dk/resfinder</a></td>
 <tr class="even">
 <td>In the Select species box, select “Staphylococcus aureus”</td>
 <td><img src="images/resfinder%20select%20species.png"
-width="20%" /></td>
+width="100%" /></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Select input type as “FASTA”.</td>
-<td><img src="images/resfinder%20select%20fasta.png" width="20%" /></td>
+<td><img src="images/resfinder%20select%20fasta.png" width="100%" /></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -103,7 +103,7 @@ width="20%" /></td>
 of the fasta files in <a
 href="https://github.com/WCSCourses/SAGESA-AMR-Genomics-Network/tree/main/docs/fasta">this</a>
 folder. Press “Submit Job”.</td>
-<td><img src="images/resfinder%20submit%20job.png" /></td>
+<td><img src="images/resfinder%20submit%20job.png" width="100%"/></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -113,7 +113,7 @@ tabseparated file”, from the “AMR gene results”.</p>
 <p>In case Resfinder did not produce a result for you, you can visualise
 an example output, for one sample, <a
 href="https://github.com/WCSCourses/SAGESA-AMR-Genomics-Network/blob/main/docs/results%20files/Resfinder%20one%20sample%20example.txt">here</a>.</p></td>
-<td><img src="images/resfinder%20download.png" width="20%" /></td>
+<td><img src="images/resfinder%20download.png" width="100%" /></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -150,7 +150,7 @@ class="uri">https://colab.research.google.com/github/monicaiabrudan/bacterial-ge
 <tr class="odd">
 <td>Go to <a href="https://chatgpt.com/"
 class="uri">https://chatgpt.com/</a></td>
-<td><img src="images/chatgpt%20upload1.png" width="20%" /></td>
+<td><img src="images/chatgpt%20upload1.png" width="100%" /></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -160,7 +160,7 @@ and the results produced by <a
 href="https://github.com/WCSCourses/SAGESA-AMR-Genomics-Network/blob/main/docs/results%20files/Resfinder.csv">Resfinder</a>
 and input the following prompt “Compare the PW and the Resfinder
 results. Which genes were identified by both methods?”.</td>
-<td><img src="images/chatgpt%20upload2.png" width="20%" /></td>
+<td><img src="images/chatgpt%20upload2.png" width="100%" /></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -171,13 +171,13 @@ different answer, depending on the model you’ve used!</p>
 results identical? Where do they differ?</p>
 <p>Look at the genes “ermC” and “erm(C)”.</p>
 <p>Was ChatGPT able to realise these were one and the same?</p></td>
-<td><img src="images/chatgpt%20output%20example1.png" width="20%" /></td>
+<td><img src="images/chatgpt%20output%20example1.png" width="100%" /></td>
 <td></td>
 </tr>
 <tr class="even">
 <td>(Optional) If you have the option, try running the tasks above using
 a different model of ChatGPT.</td>
-<td><img src="images/chatgpt%20models.png" width="20%" /></td>
+<td><img src="images/chatgpt%20models.png" width="100%" /></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -191,13 +191,13 @@ class="uri">https://claude.ai/new</a></td>
 href="https://github.com/WCSCourses/SAGESA-AMR-Genomics-Network/blob/main/docs/results%20files/PW.csv">Pathogenwatch</a>
 and the results produced by <a
 href="https://github.com/WCSCourses/SAGESA-AMR-Genomics-Network/blob/main/docs/results%20files/Resfinder.csv">Resfinder</a>.</td>
-<td><img src="images/claude%20upload.png" width="20%" /></td>
+<td><img src="images/claude%20upload.png" width="200%" /></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Type the following prompt: Compare the PW and the Resfinder results.
 Which genes were identified by both methods?”</td>
-<td><img src="images/claude%20prompt.png" width="20%" /></td>
+<td><img src="images/claude%20prompt.png" width="200%" /></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -207,7 +207,7 @@ Which genes were identified by both methods?”</td>
 results identical? Where do they differ?</p>
 <p>Look at the genes “ermC” and “erm(C)”.</p>
 <p>Was Claude.ai able to realise these were one and the same?</p></td>
-<td><img src="images/clause%20results.png" width="20%"/></td>
+<td><img src="images/clause%20results.png" width="200%"/></td>
 <td></td>
 </tr>
 <tr class="odd">
