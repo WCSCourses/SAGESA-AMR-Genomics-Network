@@ -39,7 +39,7 @@ AMR gene identification using Pathogenwatch</h1>
 href="https://pathogen.watch/collection/njne391gukeu-s-aureus-assessment"
 class="uri">https://pathogen.watch/collection/njne391gukeu-s-aureus-assessment</a></p></td>
 <td
-rowspan="2">===========================================================</td>
+rowspan="2"></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -47,12 +47,12 @@ rowspan="2">===========================================================</td>
 </tr>
 <tr class="odd">
 <td>Explore the Genes and the Variants tab in Pathogenwatch</td>
-<td colspan="2"><img src="images/pw%20genes.png" style="width:25.0%" />
+<td colspan="2"><img src="images/pw%20genes.png" style="width:20.0%" />
 | | <img src="images/pw%20genes2.png" style="width:25.0%" /></td>
 </tr>
 <tr class="even">
 <td>Download the AMR SNPs and AMR genes tables.</td>
-<td><img src="images/pw%20amr%20profile.png" style="width:25.0%" /></td>
+<td><img src="images/pw%20amr%20profile.png" style="width:20.0%" /></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -65,13 +65,13 @@ table visualisation program such as Excel or Google spreadsheets.</td>
 <td><p>Attempt to download a genome in .fasta format from
 Pathogenwatch.</p>
 <p>In the search bar at the top, type “G18255058”</p></td>
-<td><img src="images/pw%20search%20bar.png" style="width:25.0%" /></td>
+<td><img src="images/pw%20search%20bar.png" style="width:20.0%" /></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Download the assembled genomes in fasta format by pressing the .fa
 icon.</td>
-<td><img src="images/pw%20download%20genome.png" width="418" /></td>
+<td><img src="images/pw%20download%20genome.png" width="20%" /></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -90,12 +90,12 @@ class="uri">http://genepi.food.dtu.dk/resfinder</a></td>
 <tr class="even">
 <td>In the Select species box, select “Staphylococcus aureus”</td>
 <td><img src="images/resfinder%20select%20species.png"
-width="500" /></td>
+width="20%" /></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Select input type as “FASTA”.</td>
-<td><img src="images/resfinder%20select%20fasta.png" width="500" /></td>
+<td><img src="images/resfinder%20select%20fasta.png" width="20%" /></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -113,7 +113,7 @@ tabseparated file”, from the “AMR gene results”.</p>
 <p>In case Resfinder did not produce a result for you, you can visualise
 an example output, for one sample, <a
 href="https://github.com/WCSCourses/SAGESA-AMR-Genomics-Network/blob/main/docs/results%20files/Resfinder%20one%20sample%20example.txt">here</a>.</p></td>
-<td><img src="images/resfinder%20download.png" width="500" /></td>
+<td><img src="images/resfinder%20download.png" width="20%" /></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -150,7 +150,7 @@ class="uri">https://colab.research.google.com/github/monicaiabrudan/bacterial-ge
 <tr class="odd">
 <td>Go to <a href="https://chatgpt.com/"
 class="uri">https://chatgpt.com/</a></td>
-<td><img src="images/chatgpt%20upload1.png" width="500" /></td>
+<td><img src="images/chatgpt%20upload1.png" width="20%" /></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -160,7 +160,7 @@ and the results produced by <a
 href="https://github.com/WCSCourses/SAGESA-AMR-Genomics-Network/blob/main/docs/results%20files/Resfinder.csv">Resfinder</a>
 and input the following prompt “Compare the PW and the Resfinder
 results. Which genes were identified by both methods?”.</td>
-<td><img src="images/chatgpt%20upload2.png" width="300" /></td>
+<td><img src="images/chatgpt%20upload2.png" width="20%" /></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -177,7 +177,7 @@ results identical? Where do they differ?</p>
 <tr class="even">
 <td>(Optional) If you have the option, try running the tasks above using
 a different model of ChatGPT.</td>
-<td><img src="images/chatgpt%20models.png" width="400" /></td>
+<td><img src="images/chatgpt%20models.png" width="20%" /></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -191,13 +191,13 @@ class="uri">https://claude.ai/new</a></td>
 href="https://github.com/WCSCourses/SAGESA-AMR-Genomics-Network/blob/main/docs/results%20files/PW.csv">Pathogenwatch</a>
 and the results produced by <a
 href="https://github.com/WCSCourses/SAGESA-AMR-Genomics-Network/blob/main/docs/results%20files/Resfinder.csv">Resfinder</a>.</td>
-<td><img src="images/claude%20upload.png" width="400" /></td>
+<td><img src="images/claude%20upload.png" width="20%" /></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Type the following prompt: Compare the PW and the Resfinder results.
 Which genes were identified by both methods?”</td>
-<td><img src="images/claude%20prompt.png" width="400" /></td>
+<td><img src="images/claude%20prompt.png" width="20%" /></td>
 <td></td>
 </tr>
 <tr class="even">
