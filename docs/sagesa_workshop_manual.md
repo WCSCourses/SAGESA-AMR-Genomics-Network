@@ -1,5 +1,7 @@
 ## Evaluating Tools for AMR Detection and the Role of AI in Data Analysis
 
+-Link to workshop recording: https://www.youtube.com/watch?v=a5cnjD8Ls_E
+
 ### Learning outcomes
 
 At the end of the session, participants should be able to: - Use
